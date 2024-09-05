@@ -33,10 +33,9 @@
 
 ## Get in touch
 ### **I'm always open and looking for any opportunity, feel free to reach me out via:<br />**
-- Email: [YanaWu@clarku.edu](mailto:iwalube@clarku.edu)<br />
+- Email: [iwalube@clarku.edu](mailto:iwalube@clarku.edu)<br />
 - Linkedin: [in/giswu]((https://www.linkedin.com/in/isack-walube-458876217))<br />
-- Twitter: [YananWGIS](https://twitter.com/YananWGIS)<br />
-- Medium: [@ywu120766](https://medium.com/@ywu120766)
+- Twitter: [IsackNewtWalube](https://x.com/IsaacNewtWalube))<br />
 
 
 

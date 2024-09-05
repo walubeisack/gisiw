@@ -1,22 +1,10 @@
 
-[Linkedin](https://www.linkedin.com/in/isack-walube-458876217) -- hyperlinks
-
-[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/isack-walube-458876217/) -- static badge
-
-[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)]([https://scholar.google.com/citations?user=xVDuszoAAAAJ&hl=en](https://isackwalube.weebly.com/))
-
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/walubeisack/gisiw">
-
-
-
-
-
 ## **Hi there 👋, my name is Isack Walube**
 
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/isack-walube-458876217/)
 
 
-#### **Spatial Minds, Data Discoveries - an explorer who merges the worlds of data and geography.** 
+#### **"Passionate about leveraging GIS tools to drive innovation in renewable energy, ultimately promoting sustainability and addressing global challenges like energy access and environmental conservation.".** 
 + 👩‍🏫 I am a second-year student pursuing masters in Geographic Infromation Sciences at [Clark University](https://www.clarku.edu/departments/geography/).
 
 
@@ -24,6 +12,7 @@
 
 + 💡 More information can be found on my [LinkedIn](https://www.linkedin.com/in/isack-walube-458876217) | [CV](https://gisynw.github.io/YananWu-Files/YananWu_CV.pdf) | [Resume](https://gisynw.github.io/YananWu-Files/YananWu_Resume.pdf) | [E-Portfolio](https://walubeisack.weebly.com/)
 
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/walubeisack/gisiw">
 ---
 
 ## **Skills**

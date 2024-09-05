@@ -17,14 +17,14 @@
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?user=xVDuszoAAAAJ&hl=en)
 
 #### **Spatial Minds, Data Discoveries - an explorer who merges the worlds of data and geography.** 
-+ 👩‍🏫 I am a visiting assistant professor in the Graduate School of Geography at Clark University
++ 👩‍🏫 I am a second-year student pursuing masters in Geographic Infromation Sciences at Clark University
   
 + 🎓 PhD in the Department of Geospatial Information Sciences @ [Clark University](https://www.clarku.edu/departments/geography/).
 https://www.clarku.edu/departments/geography/
 
 + 💻 My research interests include Geographic Information Science (GIS), spatial modeling, and spatial data science.
 
-+ 💡 More information can be found on my [LinkedIn]([www.linkedin.com/in/giswu](https://www.linkedin.com/in/isack-walube-458876217) | [CV](https://gisynw.github.io/YananWu-Files/YananWu_CV.pdf) | [Resume](https://gisynw.github.io/YananWu-Files/YananWu_Resume.pdf) | [Google Scholar](https://scholar.google.com/citations?user=xVDuszoAAAAJ&hl=en) and blog post on [Medium](https://ywu120766.medium.com/)
++ 💡 More information can be found on my [LinkedIn](https://www.linkedin.com/in/isack-walube-458876217) | [CV](https://gisynw.github.io/YananWu-Files/YananWu_CV.pdf) | [Resume](https://gisynw.github.io/YananWu-Files/YananWu_Resume.pdf) | [Google Scholar](https://scholar.google.com/citations?user=xVDuszoAAAAJ&hl=en) and blog post on [Medium](https://ywu120766.medium.com/)
 
 ---
 

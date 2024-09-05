@@ -1,7 +1,7 @@
 ## Isack
 
 
-[Linkedin](https://www.linkedin.com/in/isack-walube-458876217/) -- hyperlinks
+[Linkedin](https://www.linkedin.com/in/isack-walube-458876217) -- hyperlinks
 
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/isack-walube-458876217/) -- static badge
 

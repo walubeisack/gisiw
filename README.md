@@ -17,10 +17,8 @@
 
 
 #### **Spatial Minds, Data Discoveries - an explorer who merges the worlds of data and geography.** 
-+ 👩‍🏫 I am a second-year student pursuing masters in Geographic Infromation Sciences at Clark University
-  
-+ 🎓 PhD in the Department of Geospatial Information Sciences @ [Clark University](https://www.clarku.edu/departments/geography/).
-https://www.clarku.edu/departments/geography/
++ 👩‍🏫 I am a second-year student pursuing masters in Geographic Infromation Sciences at [Clark University](https://www.clarku.edu/departments/geography/).
+
 
 + 💻 My research interests include Geographic Information Science (GIS), spatial modeling, and spatial data science.
 
@@ -31,7 +29,6 @@ https://www.clarku.edu/departments/geography/
 ## **Skills**
 ![My Skills](https://skillicons.dev/icons?i=js,py,r,html,css)
 
-## Latest Blog Post on [Medium](https://ywu120766.medium.com/)
 
 [Publish and update web map on ArcGIS Online Using ArcGIS API for Python](https://ywu120766.medium.com/publish-a-web-map-on-arcgis-online-using-arcgis-api-for-python-a7b3dc639ed7)
 

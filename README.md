@@ -8,7 +8,7 @@
 + 👩‍🏫 I am a second-year student pursuing masters in Geographic Infromation Sciences at [Clark University](https://www.clarku.edu/departments/geography/).
 
 
-+ 💻 My research interests include Geographic Information Science (GIS), spatial modeling, and spatial data science.
++ 💻 My research interests include Geographic Information Science (GIS), spatial modeling, and spatial data science. 
 
 + 💡 More information can be found on my [LinkedIn](https://www.linkedin.com/in/isack-walube-458876217) | [CV](https://gisynw.github.io/YananWu-Files/YananWu_CV.pdf) | [Resume](https://gisynw.github.io/YananWu-Files/YananWu_Resume.pdf) | [E-Portfolio](https://walubeisack.weebly.com/)
 

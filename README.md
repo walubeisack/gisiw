@@ -10,8 +10,7 @@
 
 + 💻 My research interests include Geographic Information Science (GIS), spatial modeling, and spatial data science. 
 
-+ 💡 More information can be found on my [LinkedIn](https://www.linkedin.com/in/isack-walube-458876217) | [CV](https://walubeisack.github.io/Documents/Isack_Walube_Resume.pdf) | [Resume](https://gisynw.github.io/YananWu-Files/YananWu_Resume.pdf) | [E-Portfolio](https://walubeisack.weebly.com/) https://github.com/walubeisack/walubeisack.github.io/blob/main/Documents/Isack_Walube_Resume.pdf
-chrome-extension://gphandlahdpffmccakmbngmbjnjiiahp/https://walubeisack.github.io/Documents/Isack_Walube_Resume.pdf
++ 💡 More information can be found on my [LinkedIn](https://www.linkedin.com/in/isack-walube-458876217) | [CV](https://walubeisack.github.io/Documents/Isack_Walube_Resume.pdf) | [Resume](https://gisynw.github.io/YananWu-Files/YananWu_Resume.pdf) | [E-Portfolio](https://walubeisack.weebly.com/)
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/walubeisack/gisiw">
 ---
 

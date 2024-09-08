@@ -19,7 +19,7 @@
 ![My Skills](https://skillicons.dev/icons?i=js,py,r,mysql)
 
 
-[Publish and update web map on ArcGIS Online Using ArcGIS API for Python](https://ywu120766.medium.com/publish-a-web-map-on-arcgis-online-using-arcgis-api-for-python-a7b3dc639ed7)
+[Publish and update web map on ArcGIS Online Using ArcGIS API for Python](https://github.com/walubeisack/rgeeclimatemodeling)
 
 [Simple and Straightforward Classification with Extreme Gradient Boosting — XGboost](https://ywu120766.medium.com/simple-and-straightforward-classification-with-extreme-gradient-boosting-xgboost-e88257dbe9a7)
 

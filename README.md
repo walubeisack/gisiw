@@ -19,15 +19,7 @@
 ![My Skills](https://skillicons.dev/icons?i=js,py,r,mysql)
 
 
-[Publish and update web map on ArcGIS Online Using ArcGIS API for Python](https://github.com/walubeisack/rgeeclimatemodeling)
 
-[Simple and Straightforward Classification with Extreme Gradient Boosting — XGboost](https://ywu120766.medium.com/simple-and-straightforward-classification-with-extreme-gradient-boosting-xgboost-e88257dbe9a7)
-
-[Gradient Boost — Classification](https://ywu120766.medium.com/gradient-boost-classification-bc1faf0a3dbe)
-
-[How to Divide Linestring(sf) into Equal Segments with R](https://ywu120766.medium.com/how-to-divide-linestring-sf-into-equal-segments-with-r-935a9ebaec7a)
-
-[Interactive map in Jupyter Notebook](https://ywu120766.medium.com/ipyleaflet-ipywidgets-interactive-map-in-jupyter-notebook-a6ba76586cb5)
 
 ---
 

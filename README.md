@@ -8,14 +8,15 @@
 + 👩‍🏫 I am a second-year student pursuing masters in Geographic Infromation Sciences at [Clark University](https://www.clarku.edu/departments/geography/).
 
 
-+ 💻 My research interests include Geographic Information Science (GIS), spatial modeling, and spatial data science. 
++ 💻 My research interests include Geographic Information Science (GIS), Remote sensing, and Renewable Energy. 
 
 + 💡 More information can be found on my [LinkedIn](https://www.linkedin.com/in/isack-walube-458876217) | [Resume](https://walubeisack.github.io/Documents/Isack_Walube_Resume.pdf) | [E-Portfolio](https://walubeisack.weebly.com/)
 <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/walubeisack/gisiw">
 ---
 
 ## **Skills**
-![My Skills](https://skillicons.dev/icons?i=js,py,r,html,css)
+
+![My Skills](https://skillicons.dev/icons?i=js,py,r,mysql)
 
 
 [Publish and update web map on ArcGIS Online Using ArcGIS API for Python](https://ywu120766.medium.com/publish-a-web-map-on-arcgis-online-using-arcgis-api-for-python-a7b3dc639ed7)

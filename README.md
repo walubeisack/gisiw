@@ -23,8 +23,7 @@
 
 ---
 
-## Get in touch
-### **I'm always open and looking for any opportunity, feel free to reach me out via:<br />**
+## Reach me at
 - Email: [iwalube@clarku.edu](mailto:iwalube@clarku.edu)<br />
 - Linkedin: [Isack Walube](https://www.linkedin.com/in/isack-walube-458876217)<br />
 - Twitter: [IsackNewtWalube](https://x.com/IsaacNewtWalube)<br />
